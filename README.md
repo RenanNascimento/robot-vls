@@ -34,7 +34,7 @@ model.
 
 **webapp** contains a web project that is going to be running in the 
 
-**Notebook**. It receives info about markers and renders robot 
+**Notebook** receives info about markers and renders robot 
 localization in a 3D environment.
 
 Bellow I am going to explain in more details each folder and its 
