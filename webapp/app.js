@@ -12,6 +12,7 @@ app.get('/', function (req, res) {
 })
 
 http.listen(3000);
+console.log('SERVER RUNNING AT localhost:3000')
 
 /* TCP Socket Server */
 
