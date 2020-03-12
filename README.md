@@ -80,3 +80,9 @@ Raspeberr Pi infos:
 * Model: Raspberry Pi 3 Model B V1.2
 * Micro SSD: SanDisk Ultra 16GB
 * OS: Raspbian Buster with desktop | Version February 2020
+
+The first thing you should do is install `Tensorflow` and `OpenCV` in your
+Rasp.
+
+* Tensorflow version: 1.14.0
+* OpenCV version: 
